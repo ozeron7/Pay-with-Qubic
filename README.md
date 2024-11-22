@@ -1,4 +1,4 @@
-# Pay-with-Qubic
+# Pay with Qubic - Qubic Coin Payment Verification
 Pay with Qubic lets WooCommerce stores accept Qubic Coin payments, verify transactions, and approve or cancel orders based on payment status.
 
 # Description
