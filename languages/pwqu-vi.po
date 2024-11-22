@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Project-Id-Version: \n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: pay-with-qubic.php:675 pay-with-qubic.php:702
+msgid "1 Qu:"
+msgstr "1 Qu:"
+
+#: pay-with-qubic.php:115
+msgid "Allows payment using Qubic Coin."
+msgstr "Cho phép thanh toán bằng Qubic Coin."
+
+#: pay-with-qubic.php:613
+msgid "Amount Paid"
+msgstr "Số tiền đã thanh toán"
+
+#: pay-with-qubic.php:292
+msgid "Amount to be sent to the Qubic wallet"
+msgstr "Số tiền được gửi vào ví Qubic"
+
+#: pay-with-qubic.php:340
+msgid "An error occurred while copying qus amounts."
+msgstr "Đã xảy ra lỗi khi sao chép số tiền qus."
+
+#: pay-with-qubic.php:176 pay-with-qubic.php:331
+msgid "An error occurred while copying the wallet address."
+msgstr "Đã xảy ra lỗi trong khi sao chép địa chỉ ví."
+
+#: pay-with-qubic.php:247
+msgid "Awaiting payment with Qubic Coin."
+msgstr "Đang chờ thanh toán bằng Qubic Coin."
+
+#: pay-with-qubic.php:301
+msgid "Checking payment..."
+msgstr "Đang kiểm tra thanh toán…"
+
+#: pay-with-qubic.php:154 pay-with-qubic.php:292 pay-with-qubic.php:312
+msgid "Copied!"
+msgstr "Sao chép!"
+
+#: pay-with-qubic.php:153 pay-with-qubic.php:292 pay-with-qubic.php:311
+msgid "Copy"
+msgstr "Sao chép"
+
+#: pay-with-qubic.php:238
+msgid "Currency conversion failed."
+msgstr "Chuyển đổi tiền tệ không thành công."
+
+#: pay-with-qubic.php:203
+msgid "Description"
+msgstr "Mô tả"
+
+#: pay-with-qubic.php:151
+msgid "Developer Wallet Address"
+msgstr "Nhà phát triển Wallet Address"
+
+#: pay-with-qubic.php:192
+msgid "Enable Pay with Qubic payment gateway"
+msgstr "Bật thanh toán bằng cổng thanh toán Qubic"
+
+#: pay-with-qubic.php:295
+msgid "Enter your Transaction ID and click 'Pay':"
+msgstr "Nhập ID giao dịch của bạn và nhấp vào 'Thanh toán':"
+
+#: pay-with-qubic.php:676 pay-with-qubic.php:696
+msgid "Expected"
+msgstr "Dự kiến"
+
+#: pay-with-qubic.php:528
+msgid "However, an overpayment has been made."
+msgstr "Tuy nhiên, một khoản thanh toán vượt mức đã được thực hiện."
+
+#: pay-with-qubic.php:150
+msgid "If you find this plugin helpful, you can support the developer by sending Qubic Coins to the wallet address below."
+msgstr "Nếu bạn thấy plugin này hữu ích, bạn có thể hỗ trợ nhà phát triển bằng cách gửi Qubic Coins đến địa chỉ ví bên dưới."
+
+#: pay-with-qubic.php:456
+msgid "Invalid data."
+msgstr "Dữ liệu không hợp lệ."
+
+#: pay-with-qubic.php:276
+msgid "Invalid order."
+msgstr "Đơn hàng không hợp lệ."
+
+#: pay-with-qubic.php:406
+msgid "Invalid transaction ID."
+msgstr "ID giao dịch không hợp lệ."
+
+#: pay-with-qubic.php:536
+msgid "Less than the due amount has been paid. Order canceled."
+msgstr "Ít hơn số tiền đến hạn đã được thanh toán. Đơn hàng bị hủy."
+
+#: pay-with-qubic.php:451 pay-with-qubic.php:625
+msgid "Nonce verification failed."
+msgstr "Xác minh Nonce không thành công."
+
+#: pay-with-qubic.php:639
+msgid "Order ID is not valid."
+msgstr "ID đơn hàng không hợp lệ."
+
+#: pay-with-qubic.php:471
+msgid "Order Status"
+msgstr "Trạng thái đơn hàng"
+
+#: pay-with-qubic.php:389
+msgid "Order canceled due to payment timeout."
+msgstr "Đơn hàng bị hủy do thời gian thanh toán hết hạn."
+
+#: pay-with-qubic.php:466
+msgid "Order not found"
+msgstr "Không tìm thấy đơn hàng"
+
+#: pay-with-qubic.php:677 pay-with-qubic.php:698
+msgid "Paid"
+msgstr "Đã trả tiền"
+
+#: pay-with-qubic.php:298
+msgid "Pay"
+msgstr "Chi trả"
+
+#: pay-with-qubic.php:114
+msgid "Pay With Qubic"
+msgstr "Thanh toán bằng Qubic"
+
+#: pay-with-qubic.php:206
+msgid "Pay using Qubic Coin."
+msgstr "Thanh toán bằng Qubic Coin."
+
+#: pay-with-qubic.php:2
+msgid "Pay with Qubic - Qubic Coin Payment Verification"
+msgstr "Thanh toán bằng Qubic - Xác minh thanh toán Qubic Coin"
+
+#: pay-with-qubic.php:199
+msgid "Pay with Qubic Coin"
+msgstr "Thanh toán bằng Qubic Coin"
+
+#: pay-with-qubic.php:216
+msgid "Payment Timeout"
+msgstr "Thời gian thanh toán"
+
+#: pay-with-qubic.php:489
+msgid "Payment could not be verified. Please try again."
+msgstr "Thanh toán không thể được xác minh. Vui lòng thử lại."
+
+#: pay-with-qubic.php:669
+msgid "Payment successful. However, an overpayment has been made. Please contact support."
+msgstr "Thanh toán thành công. Tuy nhiên, một khoản thanh toán vượt mức đã được thực hiện. Vui lòng liên hệ với bộ phận hỗ trợ."
+
+#: pay-with-qubic.php:526
+msgid "Payment successful. Your order is processing."
+msgstr "Thanh toán thành công. Đơn đặt hàng của bạn đang được xử lý."
+
+#: pay-with-qubic.php:356
+msgid "Payment time expired. Canceling the order..."
+msgstr "Thời gian thanh toán đã hết hạn. Hủy đơn hàng..."
+
+#: pay-with-qubic.php:530 pay-with-qubic.php:538
+#, php-format
+msgid "Please contact support with your order number (#%1$s) and transaction ID for a refund."
+msgstr "Vui lòng liên hệ với bộ phận hỗ trợ với số đơn hàng (#%1$s) và ID giao dịch để được hoàn lại tiền."
+
+#: pay-with-qubic.php:309
+msgid "QUBIC Wallet Address"
+msgstr "Địa chỉ ví QUBIC"
+
+#: pay-with-qubic.php:209
+msgid "Qubic Coin Wallet Address"
+msgstr "Địa chỉ ví Qubic Coin"
+
+#: pay-with-qubic.php:673
+msgid "Qubic Payment Details"
+msgstr "Chi tiết thanh toán Qubic"
+
+#: pay-with-qubic.php:611
+msgid "Qus Amount Due"
+msgstr "Số tiền đến hạn Qus"
+
+#: pay-with-qubic.php:299
+msgid "Remaining time"
+msgstr "Thời gian còn lại"
+
+#: pay-with-qubic.php:266
+msgid "Required Qus amount for payment"
+msgstr "Số tiền Qus cần thiết để thanh toán"
+
+#: pay-with-qubic.php:158
+msgid "Scan the QR code to send Qubic Coins directly to the developer."
+msgstr "Quét mã QR để gửi Qubic Coins trực tiếp đến nhà phát triển."
+
+#: pay-with-qubic.php:100
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: pay-with-qubic.php:139
+msgid "Settings for the Pay with Qubic payment gateway."
+msgstr "Cài đặt cho cổng thanh toán Thanh toán bằng Qubic."
+
+#: pay-with-qubic.php:218
+msgid "Specify in seconds. For example, 600 for 10 minutes"
+msgstr "Chỉ định trong giây. Ví dụ: 600 trong 10 phút"
+
+#: pay-with-qubic.php:149
+msgid "Support the Developer"
+msgstr "Hỗ trợ nhà phát triển"
+
+#: pay-with-qubic.php:211
+msgid "The Qubic Coin address to receive payments"
+msgstr "Địa chỉ Qubic Coin để nhận thanh toán"
+
+#: pay-with-qubic.php:205
+msgid "The description displayed during checkout"
+msgstr "Mô tả hiển thị trong quá trình thanh toán"
+
+#: pay-with-qubic.php:511
+msgid "The destination wallet address does not match"
+msgstr "Địa chỉ ví đích không khớp"
+
+#: pay-with-qubic.php:636
+msgid "The order could not be found and could not be cancelled."
+msgstr "Không thể tìm thấy đơn đặt hàng và không thể hủy."
+
+#: pay-with-qubic.php:633 pay-with-qubic.php:634
+msgid "The order was canceled because the payment period has expired."
+msgstr "Đơn hàng đã bị hủy vì thời hạn thanh toán đã hết hạn."
+
+#: pay-with-qubic.php:198
+msgid "The title displayed during checkout"
+msgstr "Tiêu đề hiển thị trong quá trình thanh toán"
+
+#: pay-with-qubic.php:497
+msgid "The transaction time cannot be before the order time."
+msgstr "Thời gian giao dịch không thể trước thời gian đặt hàng."
+
+#: pay-with-qubic.php:196
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: pay-with-qubic.php:296 pay-with-qubic.php:612 pay-with-qubic.php:678
+#: pay-with-qubic.php:700
+msgid "Transaction ID"
+msgstr "ID giao dịch"
+
+#: pay-with-qubic.php:483
+msgid "Transaction ID was entered incorrectly."
+msgstr "ID giao dịch đã được nhập không chính xác."
+
+#: pay-with-qubic.php:479
+msgid "Unable to connect to the server, please try again in a moment."
+msgstr "Không thể kết nối với máy chủ, vui lòng thử lại trong giây lát."
+
+#: pay-with-qubic.php:229 pay-with-qubic.php:268
+msgid "Unable to fetch Qubic price information."
+msgstr "Không thể lấy thông tin giá Qubic."
+
+#: pay-with-qubic.php:2
+msgid "Verifies payments made using Qubic Coin and approves or cancels the order accordingly."
+msgstr "Xác minh các khoản thanh toán được thực hiện bằng Qubic Coin và chấp thuận hoặc hủy đơn đặt hàng cho phù hợp."
+
+#: pay-with-qubic.php:503
+msgid "Wallet address not recognised."
+msgstr "Địa chỉ ví không được nhận dạng."
+
+#: pay-with-qubic.php:366
+msgid "day"
+msgstr "ngày"
+
+#: pay-with-qubic.php:366
+msgid "days"
+msgstr "ngày"
+
+#: pay-with-qubic.php:369
+msgid "hour"
+msgstr "giờ"
+
+#: pay-with-qubic.php:369
+msgid "hours"
+msgstr "giờ"
+
+#: pay-with-qubic.php:372
+msgid "min"
+msgstr "tối thiểu"
+
+#: pay-with-qubic.php:372
+msgid "mins"
+msgstr "phút"
+
+#: pay-with-qubic.php:2
+msgid "ozeron7"
+msgstr "ozeron7"
+
+#: pay-with-qubic.php:374
+msgid "sec"
+msgstr "giây"
+
+#: pay-with-qubic.php:374
+msgid "secs"
+msgstr "giây"

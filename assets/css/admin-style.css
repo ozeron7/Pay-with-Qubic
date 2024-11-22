@@ -1,0 +1,69 @@
+/* Container: Left and Right Columns */
+.pwqubic-settings-container {
+    display: flex;
+    flex-wrap: wrap; /* Wrap columns on smaller screens */
+    gap: 20px;
+}
+
+/* Left Column: Form Fields (2/3 width) */
+.pwqubic-settings-left {
+    flex: 2; /* Occupies 2/3 of available space */
+	background: #F0FEFF;
+    border: 1px solid #CCFCFF;
+    padding: 15px;
+}
+
+
+.pwqubic-settings-left input[type=text], .pwqubic-settings-left textarea { width: 100%; }
+.pwqubic-settings-left label { margin-bottom:10px; font-weight:600;}
+.pwqubic-settings-left fieldset { margin-bottom:20px; }
+.pwqubic-settings-left .qubic-logo img {width:40%; margin-bottom: 15px;}
+.woocommerce-save-button {background-color: #CCFCFF!important; color:#111927!important;}
+.woocommerce-save-button:hover {background-color: #62F0FE!important;}
+
+
+/* Right Column: Developer Info (1/3 width) */
+.pwqubic-settings-right {
+    flex: 1; /* Occupies 1/3 of available space */
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.pwqubic-settings-right h3 {
+    margin-top: 0;
+}
+.pwqubic-settings-right p {
+    margin: 10px 0;
+}
+
+.dev-wallet { text-align: center; /* Adresin düzgün hizalanmasını sağlar */
+    word-wrap: break-word; /* Uzun kelimeleri böler */
+    max-width: 100%; /* Çerçeveyi aşmaz */
+overflow-wrap: anywhere; /* Adres her yerde kırılabilir */ }
+.pwqubic-copy-button{padding:4px 10px;background-color:#CCFCFF;color:#111927;border:none;border-radius:5px;cursor:pointer}
+.pwqubic-copy-button:hover {background-color: #62F0FE;}
+.copy-feedback {color: #111927; background-color: #D2FDD1; font-size: 14px;}
+
+/* QR Code Styling */
+#developer-qr-code {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Plugin specific RTL tweaks */
+html[lang="ar"] .pwqubic-settings-container,
+html[lang="fa"] .pwqubic-settings-container {
+  text-align: right;
+  direction: rtl;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .pwqubic-settings-left,
+    .pwqubic-settings-right {
+        flex: 1 0 100%; /* Full width for smaller screens */
+    }
+	.pwqubic-settings-left .qubic-logo img {width:80%;}
+}

@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Project-Id-Version: \n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1) ? 0 : 1;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: pay-with-qubic.php:675 pay-with-qubic.php:702
+msgid "1 Qu:"
+msgstr "1 क्यू:"
+
+#: pay-with-qubic.php:115
+msgid "Allows payment using Qubic Coin."
+msgstr "क्यूबिक कॉइन का उपयोग करके भुगतान की अनुमति देता है."
+
+#: pay-with-qubic.php:613
+msgid "Amount Paid"
+msgstr "भुगतान की गई राशि"
+
+#: pay-with-qubic.php:292
+msgid "Amount to be sent to the Qubic wallet"
+msgstr "क्यूबिक वॉलेट में भेजी जाने वाली राशि"
+
+#: pay-with-qubic.php:340
+msgid "An error occurred while copying qus amounts."
+msgstr "क्यूएस राशियों की नक़ल करते समय एक त्रुटि हुई."
+
+#: pay-with-qubic.php:176 pay-with-qubic.php:331
+msgid "An error occurred while copying the wallet address."
+msgstr "वॉलेट का पता कॉपी करते समय एक त्रुटि हुई."
+
+#: pay-with-qubic.php:247
+msgid "Awaiting payment with Qubic Coin."
+msgstr "क्यूबिक कॉइन के साथ भुगतान की प्रतीक्षा कर रहा है."
+
+#: pay-with-qubic.php:301
+msgid "Checking payment..."
+msgstr "भुगतान चेक किया जा रहा है..."
+
+#: pay-with-qubic.php:154 pay-with-qubic.php:292 pay-with-qubic.php:312
+msgid "Copied!"
+msgstr "कॉपी किया गया!"
+
+#: pay-with-qubic.php:153 pay-with-qubic.php:292 pay-with-qubic.php:311
+msgid "Copy"
+msgstr "कॉपी करें"
+
+#: pay-with-qubic.php:238
+msgid "Currency conversion failed."
+msgstr "मुद्रा रूपांतरण असफल."
+
+#: pay-with-qubic.php:203
+msgid "Description"
+msgstr "विवरण"
+
+#: pay-with-qubic.php:151
+msgid "Developer Wallet Address"
+msgstr "डेवलपर वॉलेट का पता"
+
+#: pay-with-qubic.php:192
+msgid "Enable Pay with Qubic payment gateway"
+msgstr "क्यूबिक पेमेंट गेटवे के साथ पे सक्षम करें"
+
+#: pay-with-qubic.php:295
+msgid "Enter your Transaction ID and click 'Pay':"
+msgstr "अपनी ट्रांजेक्शन आईडी दर्ज करें और 'पे' पर क्लिक करें:"
+
+#: pay-with-qubic.php:676 pay-with-qubic.php:696
+msgid "Expected"
+msgstr "अपेक्षित"
+
+#: pay-with-qubic.php:528
+msgid "However, an overpayment has been made."
+msgstr "हालांकि, ओवरपेमेंट किया गया है।"
+
+#: pay-with-qubic.php:150
+msgid "If you find this plugin helpful, you can support the developer by sending Qubic Coins to the wallet address below."
+msgstr "यदि आपको यह प्लगइन मददगार लगता है, तो आप नीचे दिए गए वॉलेट पते पर क्यूबिक सिक्के भेजकर डेवलपर का समर्थन कर सकते हैं।"
+
+#: pay-with-qubic.php:456
+msgid "Invalid data."
+msgstr "अमान्य डेटा।"
+
+#: pay-with-qubic.php:276
+msgid "Invalid order."
+msgstr "अमान्य ऑर्डर।"
+
+#: pay-with-qubic.php:406
+msgid "Invalid transaction ID."
+msgstr "अवैध ट्रांज़ैक्शन आईडी।"
+
+#: pay-with-qubic.php:536
+msgid "Less than the due amount has been paid. Order canceled."
+msgstr "देय राशि से कम का भुगतान किया गया है। ऑर्डर कैंसिल किया गया।"
+
+#: pay-with-qubic.php:451 pay-with-qubic.php:625
+msgid "Nonce verification failed."
+msgstr "एक बार सत्यापन विफल नहीं हुआ।"
+
+#: pay-with-qubic.php:639
+msgid "Order ID is not valid."
+msgstr "ऑर्डर आईडी मान्य नहीं है।"
+
+#: pay-with-qubic.php:471
+msgid "Order Status"
+msgstr "आदेश की स्थिति"
+
+#: pay-with-qubic.php:389
+msgid "Order canceled due to payment timeout."
+msgstr "भुगतान समय समाप्त होने के कारण ऑर्डर रद्द किया गया।"
+
+#: pay-with-qubic.php:466
+msgid "Order not found"
+msgstr "ऑर्डर नहीं मिला"
+
+#: pay-with-qubic.php:677 pay-with-qubic.php:698
+msgid "Paid"
+msgstr "भुगतान किया है"
+
+#: pay-with-qubic.php:298
+msgid "Pay"
+msgstr "पे"
+
+#: pay-with-qubic.php:114
+msgid "Pay With Qubic"
+msgstr "क्यूबिक के साथ खेलें"
+
+#: pay-with-qubic.php:206
+msgid "Pay using Qubic Coin."
+msgstr "क्यूबिक कॉइन का उपयोग करके भुगतान करें।"
+
+#: pay-with-qubic.php:2
+msgid "Pay with Qubic - Qubic Coin Payment Verification"
+msgstr "क्यूबिक के साथ भुगतान करें - क्यूबिक कॉइन पेमेंट वेरिफिकेशन"
+
+#: pay-with-qubic.php:199
+msgid "Pay with Qubic Coin"
+msgstr "क्यूबिक कॉइन के साथ भुगतान करें"
+
+#: pay-with-qubic.php:216
+msgid "Payment Timeout"
+msgstr "पेमेंट टाइमआउट"
+
+#: pay-with-qubic.php:489
+msgid "Payment could not be verified. Please try again."
+msgstr "भुगतान सत्यापित नहीं किया जा सका। कृपया फिर से कोशिश करें।"
+
+#: pay-with-qubic.php:669
+msgid "Payment successful. However, an overpayment has been made. Please contact support."
+msgstr "भुगतान सफल हुआ। हालांकि, अधिक भुगतान किया गया है। कृपया सहायता टीम से संपर्क करें।"
+
+#: pay-with-qubic.php:526
+msgid "Payment successful. Your order is processing."
+msgstr "भुगतान सफल हुआ। आपका ऑर्डर प्रोसेस हो रहा है।"
+
+#: pay-with-qubic.php:356
+msgid "Payment time expired. Canceling the order..."
+msgstr "भुगतान का समय समाप्त हो गया। ऑर्डर रद्द किया जा रहा है..."
+
+#: pay-with-qubic.php:530 pay-with-qubic.php:538
+#, php-format
+msgid "Please contact support with your order number (#%1$s) and transaction ID for a refund."
+msgstr "रिफंड के लिए कृपया अपने ऑर्डर नंबर (#%1$s) और ट्रांजेक्शन आईडी के साथ सपोर्ट से संपर्क करें।"
+
+#: pay-with-qubic.php:309
+msgid "QUBIC Wallet Address"
+msgstr "क्यूबिक वॉलेट एड्रेस"
+
+#: pay-with-qubic.php:209
+msgid "Qubic Coin Wallet Address"
+msgstr "क्यूबिक कॉइन वॉलेट एड्रेस"
+
+#: pay-with-qubic.php:673
+msgid "Qubic Payment Details"
+msgstr "क्यूबिक भुगतान विवरण"
+
+#: pay-with-qubic.php:611
+msgid "Qus Amount Due"
+msgstr "क्यूस राशि देय"
+
+#: pay-with-qubic.php:299
+msgid "Remaining time"
+msgstr "शेष समय"
+
+#: pay-with-qubic.php:266
+msgid "Required Qus amount for payment"
+msgstr "भुगतान के लिए आवश्यक क्यूएस राशि"
+
+#: pay-with-qubic.php:158
+msgid "Scan the QR code to send Qubic Coins directly to the developer."
+msgstr "डेवलपर को सीधे क्यूबिक सिक्के भेजने के लिए QR कोड को स्कैन करें."
+
+#: pay-with-qubic.php:100
+msgid "Settings"
+msgstr "Settings"
+
+#: pay-with-qubic.php:139
+msgid "Settings for the Pay with Qubic payment gateway."
+msgstr "क्यूबिक पेमेंट गेटवे के साथ पे के लिए सेटिंग्स."
+
+#: pay-with-qubic.php:218
+msgid "Specify in seconds. For example, 600 for 10 minutes"
+msgstr "सेकंड में निर्दिष्ट करें। उदाहरण के लिए, 10 मिनट के लिए 600"
+
+#: pay-with-qubic.php:149
+msgid "Support the Developer"
+msgstr "डेवलपर का समर्थन करें"
+
+#: pay-with-qubic.php:211
+msgid "The Qubic Coin address to receive payments"
+msgstr "भुगतान प्राप्त करने के लिए क्यूबिक कॉइन का पता"
+
+#: pay-with-qubic.php:205
+msgid "The description displayed during checkout"
+msgstr "चेकआउट के दौरान प्रदर्शित किया गया विवरण"
+
+#: pay-with-qubic.php:511
+msgid "The destination wallet address does not match"
+msgstr "गंतव्य वॉलेट का पता मेल नहीं खाता"
+
+#: pay-with-qubic.php:636
+msgid "The order could not be found and could not be cancelled."
+msgstr "ऑर्डर नहीं मिला और रद्द नहीं किया जा सका."
+
+#: pay-with-qubic.php:633 pay-with-qubic.php:634
+msgid "The order was canceled because the payment period has expired."
+msgstr "ऑर्डर रद्द कर दिया गया क्योंकि भुगतान की अवधि समाप्त हो गई है."
+
+#: pay-with-qubic.php:198
+msgid "The title displayed during checkout"
+msgstr "चेकआउट के दौरान प्रदर्शित किया गया शीर्षक"
+
+#: pay-with-qubic.php:497
+msgid "The transaction time cannot be before the order time."
+msgstr "लेन-देन का समय ऑर्डर के समय से पहले नहीं हो सकता."
+
+#: pay-with-qubic.php:196
+msgid "Title"
+msgstr "टाइटल"
+
+#: pay-with-qubic.php:296 pay-with-qubic.php:612 pay-with-qubic.php:678
+#: pay-with-qubic.php:700
+msgid "Transaction ID"
+msgstr "ट्रांजेक्शन आईडी"
+
+#: pay-with-qubic.php:483
+msgid "Transaction ID was entered incorrectly."
+msgstr "ट्रांजेक्शन आईडी गलत दर्ज की गई थी."
+
+#: pay-with-qubic.php:479
+msgid "Unable to connect to the server, please try again in a moment."
+msgstr "सर्वर से कनेक्ट नहीं किया जा सका, कृपया एक पल में फिर से कोशिश करें."
+
+#: pay-with-qubic.php:229 pay-with-qubic.php:268
+msgid "Unable to fetch Qubic price information."
+msgstr "क्यूबिक मूल्य की जानकारी प्राप्त करने में असमर्थ."
+
+#: pay-with-qubic.php:2
+msgid "Verifies payments made using Qubic Coin and approves or cancels the order accordingly."
+msgstr "क्यूबिक कॉइन का उपयोग करके किए गए भुगतानों को सत्यापित करता है और तदनुसार ऑर्डर को मंजूरी देता है या रद्द करता है."
+
+#: pay-with-qubic.php:503
+msgid "Wallet address not recognised."
+msgstr "वॉलेट का पता पहचाना नहीं गया."
+
+#: pay-with-qubic.php:366
+msgid "day"
+msgstr "डे"
+
+#: pay-with-qubic.php:366
+msgid "days"
+msgstr "दिवसों"
+
+#: pay-with-qubic.php:369
+msgid "hour"
+msgstr "घंटा"
+
+#: pay-with-qubic.php:369
+msgid "hours"
+msgstr "घंटे"
+
+#: pay-with-qubic.php:372
+msgid "min"
+msgstr "मिन"
+
+#: pay-with-qubic.php:372
+msgid "mins"
+msgstr "मिनट"
+
+#: pay-with-qubic.php:2
+msgid "ozeron7"
+msgstr "ozeron7"
+
+#: pay-with-qubic.php:374
+msgid "sec"
+msgstr "सेकंड"
+
+#: pay-with-qubic.php:374
+msgid "secs"
+msgstr "दम"

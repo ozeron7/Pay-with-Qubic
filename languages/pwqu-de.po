@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Project-Id-Version: \n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n==1) ? 0 : 1;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: pay-with-qubic.php:675 pay-with-qubic.php:702
+msgid "1 Qu:"
+msgstr "1 Qu:"
+
+#: pay-with-qubic.php:115
+msgid "Allows payment using Qubic Coin."
+msgstr "Ermöglicht die Zahlung mit Qubic Coin."
+
+#: pay-with-qubic.php:613
+msgid "Amount Paid"
+msgstr "Gezahlter Betrag"
+
+#: pay-with-qubic.php:292
+msgid "Amount to be sent to the Qubic wallet"
+msgstr "Betrag, der an die Qubic-Wallet gesendet werden soll"
+
+#: pay-with-qubic.php:340
+msgid "An error occurred while copying qus amounts."
+msgstr "Beim Kopieren von Qus-Beträgen ist ein Fehler aufgetreten."
+
+#: pay-with-qubic.php:176 pay-with-qubic.php:331
+msgid "An error occurred while copying the wallet address."
+msgstr "Beim Kopieren der Wallet-Adresse ist ein Fehler aufgetreten."
+
+#: pay-with-qubic.php:247
+msgid "Awaiting payment with Qubic Coin."
+msgstr "Ich warte auf die Zahlung mit Qubic Coin."
+
+#: pay-with-qubic.php:301
+msgid "Checking payment..."
+msgstr "Zahlung wird überprüft..."
+
+#: pay-with-qubic.php:154 pay-with-qubic.php:292 pay-with-qubic.php:312
+msgid "Copied!"
+msgstr "Kopiert!"
+
+#: pay-with-qubic.php:153 pay-with-qubic.php:292 pay-with-qubic.php:311
+msgid "Copy"
+msgstr "Copy"
+
+#: pay-with-qubic.php:238
+msgid "Currency conversion failed."
+msgstr "Die Währungsumrechnung ist fehlgeschlagen."
+
+#: pay-with-qubic.php:203
+msgid "Description"
+msgstr "Beschreibung"
+
+#: pay-with-qubic.php:151
+msgid "Developer Wallet Address"
+msgstr "Wallet-Adresse des Entwicklers"
+
+#: pay-with-qubic.php:192
+msgid "Enable Pay with Qubic payment gateway"
+msgstr "Aktivieren Sie Pay with Qubic Payment Gateway"
+
+#: pay-with-qubic.php:295
+msgid "Enter your Transaction ID and click 'Pay':"
+msgstr "Geben Sie Ihre Transaktions-ID ein und klicken Sie auf „Bezahlen“:"
+
+#: pay-with-qubic.php:676 pay-with-qubic.php:696
+msgid "Expected"
+msgstr "Erwartet"
+
+#: pay-with-qubic.php:528
+msgid "However, an overpayment has been made."
+msgstr "Es wurde jedoch eine Überzahlung geleistet."
+
+#: pay-with-qubic.php:150
+msgid "If you find this plugin helpful, you can support the developer by sending Qubic Coins to the wallet address below."
+msgstr "Wenn du dieses Plugin hilfreich findest, kannst du den Entwickler unterstützen, indem du Qubic Coins an die unten angegebene Wallet-Adresse sendest."
+
+#: pay-with-qubic.php:456
+msgid "Invalid data."
+msgstr "Ungültige Daten."
+
+#: pay-with-qubic.php:276
+msgid "Invalid order."
+msgstr "Ungültige Bestellung."
+
+#: pay-with-qubic.php:406
+msgid "Invalid transaction ID."
+msgstr "Ungültige Transaktions-ID."
+
+#: pay-with-qubic.php:536
+msgid "Less than the due amount has been paid. Order canceled."
+msgstr "Es wurde weniger als der fällige Betrag bezahlt. Bestellung storniert."
+
+#: pay-with-qubic.php:451 pay-with-qubic.php:625
+msgid "Nonce verification failed."
+msgstr "Die Nonce-Überprüfung ist fehlgeschlagen."
+
+#: pay-with-qubic.php:639
+msgid "Order ID is not valid."
+msgstr "Die Bestellnummer ist nicht gültig."
+
+#: pay-with-qubic.php:471
+msgid "Order Status"
+msgstr "Bestellstatus"
+
+#: pay-with-qubic.php:389
+msgid "Order canceled due to payment timeout."
+msgstr "Die Bestellung wurde aufgrund eines Timeouts bei der Zahlung storniert."
+
+#: pay-with-qubic.php:466
+msgid "Order not found"
+msgstr "Auftrag nicht gefunden"
+
+#: pay-with-qubic.php:677 pay-with-qubic.php:698
+msgid "Paid"
+msgstr "Paid"
+
+#: pay-with-qubic.php:298
+msgid "Pay"
+msgstr "Zahlen"
+
+#: pay-with-qubic.php:114
+msgid "Pay With Qubic"
+msgstr "Spielen Sie mit Qubic"
+
+#: pay-with-qubic.php:206
+msgid "Pay using Qubic Coin."
+msgstr "Zahlen Sie mit Qubic Coin."
+
+#: pay-with-qubic.php:2
+msgid "Pay with Qubic - Qubic Coin Payment Verification"
+msgstr "Zahlen Sie mit Qubic - Qubic Coin Zahlungsüberprüfung"
+
+#: pay-with-qubic.php:199
+msgid "Pay with Qubic Coin"
+msgstr "Zahlen Sie mit Qubic Coin"
+
+#: pay-with-qubic.php:216
+msgid "Payment Timeout"
+msgstr "Timeout bei Zahlung"
+
+#: pay-with-qubic.php:489
+msgid "Payment could not be verified. Please try again."
+msgstr "Die Zahlung konnte nicht verifiziert werden. Bitte versuchen Sie es erneut."
+
+#: pay-with-qubic.php:669
+msgid "Payment successful. However, an overpayment has been made. Please contact support."
+msgstr "Zahlung erfolgreich. Es wurde jedoch eine Überzahlung geleistet. Bitte wenden Sie sich an den Support."
+
+#: pay-with-qubic.php:526
+msgid "Payment successful. Your order is processing."
+msgstr "Zahlung erfolgreich. Ihre Bestellung wird bearbeitet."
+
+#: pay-with-qubic.php:356
+msgid "Payment time expired. Canceling the order..."
+msgstr "Die Zahlungsfrist ist abgelaufen. Die Bestellung wird storniert..."
+
+#: pay-with-qubic.php:530 pay-with-qubic.php:538
+#, php-format
+msgid "Please contact support with your order number (#%1$s) and transaction ID for a refund."
+msgstr "Bitte kontaktieren Sie den Support mit Ihrer Bestellnummer (#%1$s) und Ihrer Transaktions-ID, um eine Rückerstattung zu erhalten."
+
+#: pay-with-qubic.php:309
+msgid "QUBIC Wallet Address"
+msgstr "QUBIC Wallet-Adresse"
+
+#: pay-with-qubic.php:209
+msgid "Qubic Coin Wallet Address"
+msgstr "Adresse der Qubic Coin Wallet"
+
+#: pay-with-qubic.php:673
+msgid "Qubic Payment Details"
+msgstr "Qubic Zahlungsdetails"
+
+#: pay-with-qubic.php:611
+msgid "Qus Amount Due"
+msgstr "Fälliger Qus-Betrag"
+
+#: pay-with-qubic.php:299
+msgid "Remaining time"
+msgstr "Restlaufzeit"
+
+#: pay-with-qubic.php:266
+msgid "Required Qus amount for payment"
+msgstr "Erforderlicher Qus-Betrag für die Zahlung"
+
+#: pay-with-qubic.php:158
+msgid "Scan the QR code to send Qubic Coins directly to the developer."
+msgstr "Scannen Sie den QR-Code, um Qubic Coins direkt an den Entwickler zu senden."
+
+#: pay-with-qubic.php:100
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: pay-with-qubic.php:139
+msgid "Settings for the Pay with Qubic payment gateway."
+msgstr "Einstellungen für das Pay with Qubic Payment Gateway."
+
+#: pay-with-qubic.php:218
+msgid "Specify in seconds. For example, 600 for 10 minutes"
+msgstr "In Sekunden angeben. Zum Beispiel 600 für 10 Minuten"
+
+#: pay-with-qubic.php:149
+msgid "Support the Developer"
+msgstr "Unterstützen Sie den Entwickler"
+
+#: pay-with-qubic.php:211
+msgid "The Qubic Coin address to receive payments"
+msgstr "Die Qubic Coin-Adresse für den Empfang von Zahlungen"
+
+#: pay-with-qubic.php:205
+msgid "The description displayed during checkout"
+msgstr "Die Beschreibung, die beim Auschecken angezeigt wird"
+
+#: pay-with-qubic.php:511
+msgid "The destination wallet address does not match"
+msgstr "Die Ziel-Wallet-Adresse stimmt nicht überein"
+
+#: pay-with-qubic.php:636
+msgid "The order could not be found and could not be cancelled."
+msgstr "Die Bestellung konnte nicht gefunden und nicht storniert werden."
+
+#: pay-with-qubic.php:633 pay-with-qubic.php:634
+msgid "The order was canceled because the payment period has expired."
+msgstr "Die Bestellung wurde storniert, da die Zahlungsfrist abgelaufen ist."
+
+#: pay-with-qubic.php:198
+msgid "The title displayed during checkout"
+msgstr "Der Titel, der beim Checkout angezeigt wird"
+
+#: pay-with-qubic.php:497
+msgid "The transaction time cannot be before the order time."
+msgstr "Die Transaktionszeit kann nicht vor dem Zeitpunkt der Bestellung liegen."
+
+#: pay-with-qubic.php:196
+msgid "Title"
+msgstr "Titel"
+
+#: pay-with-qubic.php:296 pay-with-qubic.php:612 pay-with-qubic.php:678
+#: pay-with-qubic.php:700
+msgid "Transaction ID"
+msgstr "Transaktions-ID"
+
+#: pay-with-qubic.php:483
+msgid "Transaction ID was entered incorrectly."
+msgstr "Die Transaktions-ID wurde falsch eingegeben."
+
+#: pay-with-qubic.php:479
+msgid "Unable to connect to the server, please try again in a moment."
+msgstr "Es konnte keine Verbindung zum Server hergestellt werden. Bitte versuchen Sie es gleich erneut."
+
+#: pay-with-qubic.php:229 pay-with-qubic.php:268
+msgid "Unable to fetch Qubic price information."
+msgstr "Die Qubic-Preisinformationen konnten nicht abgerufen werden."
+
+#: pay-with-qubic.php:2
+msgid "Verifies payments made using Qubic Coin and approves or cancels the order accordingly."
+msgstr "Überprüft Zahlungen, die mit Qubic Coin getätigt wurden, und genehmigt oder storniert die Bestellung entsprechend."
+
+#: pay-with-qubic.php:503
+msgid "Wallet address not recognised."
+msgstr "Die Wallet-Adresse wurde nicht erkannt."
+
+#: pay-with-qubic.php:366
+msgid "day"
+msgstr "Tag"
+
+#: pay-with-qubic.php:366
+msgid "days"
+msgstr "Tage"
+
+#: pay-with-qubic.php:369
+msgid "hour"
+msgstr "Hour"
+
+#: pay-with-qubic.php:369
+msgid "hours"
+msgstr "Stunden"
+
+#: pay-with-qubic.php:372
+msgid "min"
+msgstr "min"
+
+#: pay-with-qubic.php:372
+msgid "mins"
+msgstr "mins"
+
+#: pay-with-qubic.php:2
+msgid "ozeron7"
+msgstr "ozeron7"
+
+#: pay-with-qubic.php:374
+msgid "sec"
+msgstr "Sekunde"
+
+#: pay-with-qubic.php:374
+msgid "secs"
+msgstr "Sekunden"

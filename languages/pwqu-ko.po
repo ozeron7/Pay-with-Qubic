@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Project-Id-Version: \n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: pay-with-qubic.php:675 pay-with-qubic.php:702
+msgid "1 Qu:"
+msgstr "1 질문:"
+
+#: pay-with-qubic.php:115
+msgid "Allows payment using Qubic Coin."
+msgstr "큐빅 코인을 사용하여 결제할 수 있습니다."
+
+#: pay-with-qubic.php:613
+msgid "Amount Paid"
+msgstr "지불 금액"
+
+#: pay-with-qubic.php:292
+msgid "Amount to be sent to the Qubic wallet"
+msgstr "큐빅 지갑으로 송금할 금액"
+
+#: pay-with-qubic.php:340
+msgid "An error occurred while copying qus amounts."
+msgstr "Qus 금액을 복사하는 동안 오류가 발생했습니다."
+
+#: pay-with-qubic.php:176 pay-with-qubic.php:331
+msgid "An error occurred while copying the wallet address."
+msgstr "지갑 주소를 복사하는 동안 오류가 발생했습니다."
+
+#: pay-with-qubic.php:247
+msgid "Awaiting payment with Qubic Coin."
+msgstr "큐빅 코인 결제를 기다리고 있습니다."
+
+#: pay-with-qubic.php:301
+msgid "Checking payment..."
+msgstr "결제 확인 중..."
+
+#: pay-with-qubic.php:154 pay-with-qubic.php:292 pay-with-qubic.php:312
+msgid "Copied!"
+msgstr "복사 완료!"
+
+#: pay-with-qubic.php:153 pay-with-qubic.php:292 pay-with-qubic.php:311
+msgid "Copy"
+msgstr "복사본"
+
+#: pay-with-qubic.php:238
+msgid "Currency conversion failed."
+msgstr "통화 변환에 실패했습니다."
+
+#: pay-with-qubic.php:203
+msgid "Description"
+msgstr "Description"
+
+#: pay-with-qubic.php:151
+msgid "Developer Wallet Address"
+msgstr "개발자 월렛 주소"
+
+#: pay-with-qubic.php:192
+msgid "Enable Pay with Qubic payment gateway"
+msgstr "Qubic 결제 게이트웨이로 결제를 활성화하세요"
+
+#: pay-with-qubic.php:295
+msgid "Enter your Transaction ID and click 'Pay':"
+msgstr "거래 ID를 입력하고 '결제'를 클릭합니다:"
+
+#: pay-with-qubic.php:676 pay-with-qubic.php:696
+msgid "Expected"
+msgstr "예상됨"
+
+#: pay-with-qubic.php:528
+msgid "However, an overpayment has been made."
+msgstr "그러나 초과 지급이 이루어졌습니다."
+
+#: pay-with-qubic.php:150
+msgid "If you find this plugin helpful, you can support the developer by sending Qubic Coins to the wallet address below."
+msgstr "이 플러그인이 유용하다면 아래 지갑 주소로 큐빅 코인을 전송하여 개발자를 지원할 수 있습니다."
+
+#: pay-with-qubic.php:456
+msgid "Invalid data."
+msgstr "잘못된 데이터입니다."
+
+#: pay-with-qubic.php:276
+msgid "Invalid order."
+msgstr "잘못된 주문입니다."
+
+#: pay-with-qubic.php:406
+msgid "Invalid transaction ID."
+msgstr "거래 ID가 잘못되었습니다."
+
+#: pay-with-qubic.php:536
+msgid "Less than the due amount has been paid. Order canceled."
+msgstr "납부 기한보다 적은 금액이 지불되었습니다.주문이 취소되었습니다."
+
+#: pay-with-qubic.php:451 pay-with-qubic.php:625
+msgid "Nonce verification failed."
+msgstr "논스 확인에 실패했습니다."
+
+#: pay-with-qubic.php:639
+msgid "Order ID is not valid."
+msgstr "주문 ID가 유효하지 않습니다."
+
+#: pay-with-qubic.php:471
+msgid "Order Status"
+msgstr "주문 상태"
+
+#: pay-with-qubic.php:389
+msgid "Order canceled due to payment timeout."
+msgstr "결제 시간 초과로 인해 주문이 취소되었습니다."
+
+#: pay-with-qubic.php:466
+msgid "Order not found"
+msgstr "주문을 찾을 수 없음"
+
+#: pay-with-qubic.php:677 pay-with-qubic.php:698
+msgid "Paid"
+msgstr "유료"
+
+#: pay-with-qubic.php:298
+msgid "Pay"
+msgstr "지불"
+
+#: pay-with-qubic.php:114
+msgid "Pay With Qubic"
+msgstr "큐빅으로 결제하기"
+
+#: pay-with-qubic.php:206
+msgid "Pay using Qubic Coin."
+msgstr "큐빅 코인으로 결제하세요."
+
+#: pay-with-qubic.php:2
+msgid "Pay with Qubic - Qubic Coin Payment Verification"
+msgstr "큐빅으로 결제하기 - 큐빅 코인 결제 인증"
+
+#: pay-with-qubic.php:199
+msgid "Pay with Qubic Coin"
+msgstr "큐빅 코인으로 결제하기"
+
+#: pay-with-qubic.php:216
+msgid "Payment Timeout"
+msgstr "결제 타임아웃"
+
+#: pay-with-qubic.php:489
+msgid "Payment could not be verified. Please try again."
+msgstr "결제를 확인할 수 없습니다.다시 시도해 주세요."
+
+#: pay-with-qubic.php:669
+msgid "Payment successful. However, an overpayment has been made. Please contact support."
+msgstr "결제에 성공했습니다.하지만 초과 지불이 이루어졌습니다.지원팀에 문의하세요."
+
+#: pay-with-qubic.php:526
+msgid "Payment successful. Your order is processing."
+msgstr "결제에 성공했습니다.주문이 처리 중입니다."
+
+#: pay-with-qubic.php:356
+msgid "Payment time expired. Canceling the order..."
+msgstr "결제 시간이 만료되었습니다.주문 취소 중..."
+
+#: pay-with-qubic.php:530 pay-with-qubic.php:538
+#, php-format
+msgid "Please contact support with your order number (#%1$s) and transaction ID for a refund."
+msgstr "환불을 받으려면 주문 번호(#%1$s)와 거래 ID로 지원팀에 문의하세요."
+
+#: pay-with-qubic.php:309
+msgid "QUBIC Wallet Address"
+msgstr "큐빅 월렛 주소"
+
+#: pay-with-qubic.php:209
+msgid "Qubic Coin Wallet Address"
+msgstr "큐빅 코인 지갑 주소"
+
+#: pay-with-qubic.php:673
+msgid "Qubic Payment Details"
+msgstr "큐빅 결제 세부 정보"
+
+#: pay-with-qubic.php:611
+msgid "Qus Amount Due"
+msgstr "지불해야 할 금액"
+
+#: pay-with-qubic.php:299
+msgid "Remaining time"
+msgstr "남은 시간"
+
+#: pay-with-qubic.php:266
+msgid "Required Qus amount for payment"
+msgstr "지불에 필요한 Qs 금액"
+
+#: pay-with-qubic.php:158
+msgid "Scan the QR code to send Qubic Coins directly to the developer."
+msgstr "QR 코드를 스캔하여 개발자에게 큐빅 코인을 직접 보낼 수 있습니다."
+
+#: pay-with-qubic.php:100
+msgid "Settings"
+msgstr "Settings"
+
+#: pay-with-qubic.php:139
+msgid "Settings for the Pay with Qubic payment gateway."
+msgstr "Qubic 결제 게이트웨이를 통한 결제 설정."
+
+#: pay-with-qubic.php:218
+msgid "Specify in seconds. For example, 600 for 10 minutes"
+msgstr "초 단위로 지정합니다.예를 들어, 10분 동안 600을 입력하세요"
+
+#: pay-with-qubic.php:149
+msgid "Support the Developer"
+msgstr "개발자 지원"
+
+#: pay-with-qubic.php:211
+msgid "The Qubic Coin address to receive payments"
+msgstr "결제금을 수령하기 위한 큐빅 코인 주소"
+
+#: pay-with-qubic.php:205
+msgid "The description displayed during checkout"
+msgstr "결제 시 표시되는 설명"
+
+#: pay-with-qubic.php:511
+msgid "The destination wallet address does not match"
+msgstr "대상 지갑 주소가 일치하지 않습니다"
+
+#: pay-with-qubic.php:636
+msgid "The order could not be found and could not be cancelled."
+msgstr "주문을 찾을 수 없으며 취소할 수 없습니다."
+
+#: pay-with-qubic.php:633 pay-with-qubic.php:634
+msgid "The order was canceled because the payment period has expired."
+msgstr "결제 기간이 만료되어 주문이 취소되었습니다."
+
+#: pay-with-qubic.php:198
+msgid "The title displayed during checkout"
+msgstr "결제 시 표시되는 제목"
+
+#: pay-with-qubic.php:497
+msgid "The transaction time cannot be before the order time."
+msgstr "거래 시간은 주문 시간 이전일 수 없습니다."
+
+#: pay-with-qubic.php:196
+msgid "Title"
+msgstr "직함"
+
+#: pay-with-qubic.php:296 pay-with-qubic.php:612 pay-with-qubic.php:678
+#: pay-with-qubic.php:700
+msgid "Transaction ID"
+msgstr "거래 ID"
+
+#: pay-with-qubic.php:483
+msgid "Transaction ID was entered incorrectly."
+msgstr "거래 ID가 잘못 입력되었습니다."
+
+#: pay-with-qubic.php:479
+msgid "Unable to connect to the server, please try again in a moment."
+msgstr "서버에 연결할 수 없습니다. 잠시 후 다시 시도하십시오."
+
+#: pay-with-qubic.php:229 pay-with-qubic.php:268
+msgid "Unable to fetch Qubic price information."
+msgstr "큐빅 가격 정보를 가져올 수 없습니다."
+
+#: pay-with-qubic.php:2
+msgid "Verifies payments made using Qubic Coin and approves or cancels the order accordingly."
+msgstr "큐빅 코인을 사용한 결제를 확인하고 이에 따라 주문을 승인하거나 취소합니다."
+
+#: pay-with-qubic.php:503
+msgid "Wallet address not recognised."
+msgstr "지갑 주소가 인식되지 않습니다."
+
+#: pay-with-qubic.php:366
+msgid "day"
+msgstr "날"
+
+#: pay-with-qubic.php:366
+msgid "days"
+msgstr "일"
+
+#: pay-with-qubic.php:369
+msgid "hour"
+msgstr "hour"
+
+#: pay-with-qubic.php:369
+msgid "hours"
+msgstr "hours"
+
+#: pay-with-qubic.php:372
+msgid "min"
+msgstr "min"
+
+#: pay-with-qubic.php:372
+msgid "mins"
+msgstr "분"
+
+#: pay-with-qubic.php:2
+msgid "ozeron7"
+msgstr "ozeron7"
+
+#: pay-with-qubic.php:374
+msgid "sec"
+msgstr "초"
+
+#: pay-with-qubic.php:374
+msgid "secs"
+msgstr "초"

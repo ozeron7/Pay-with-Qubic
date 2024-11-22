@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Project-Id-Version: \n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: pay-with-qubic.php:675 pay-with-qubic.php:702
+msgid "1 Qu:"
+msgstr "1 Qu:"
+
+#: pay-with-qubic.php:115
+msgid "Allows payment using Qubic Coin."
+msgstr "允许使用 Qubic Coin 付款。"
+
+#: pay-with-qubic.php:613
+msgid "Amount Paid"
+msgstr "已付的金额"
+
+#: pay-with-qubic.php:292
+msgid "Amount to be sent to the Qubic wallet"
+msgstr "将发送到 Qubic 钱包的金额"
+
+#: pay-with-qubic.php:340
+msgid "An error occurred while copying qus amounts."
+msgstr "复制 qus 金额时出错。"
+
+#: pay-with-qubic.php:176 pay-with-qubic.php:331
+msgid "An error occurred while copying the wallet address."
+msgstr "复制钱包地址时出错。"
+
+#: pay-with-qubic.php:247
+msgid "Awaiting payment with Qubic Coin."
+msgstr "正在等待使用 Qubic Coin 付款。"
+
+#: pay-with-qubic.php:301
+msgid "Checking payment..."
+msgstr "正在检查付款..."
+
+#: pay-with-qubic.php:154 pay-with-qubic.php:292 pay-with-qubic.php:312
+msgid "Copied!"
+msgstr "已复制！"
+
+#: pay-with-qubic.php:153 pay-with-qubic.php:292 pay-with-qubic.php:311
+msgid "Copy"
+msgstr "复制"
+
+#: pay-with-qubic.php:238
+msgid "Currency conversion failed."
+msgstr "货币兑换失败。"
+
+#: pay-with-qubic.php:203
+msgid "Description"
+msgstr "描述"
+
+#: pay-with-qubic.php:151
+msgid "Developer Wallet Address"
+msgstr "开发者钱包地址"
+
+#: pay-with-qubic.php:192
+msgid "Enable Pay with Qubic payment gateway"
+msgstr "启用 Qubic 支付网关支付"
+
+#: pay-with-qubic.php:295
+msgid "Enter your Transaction ID and click 'Pay':"
+msgstr "输入您的交易 ID 并点击 “支付”："
+
+#: pay-with-qubic.php:676 pay-with-qubic.php:696
+msgid "Expected"
+msgstr "预期"
+
+#: pay-with-qubic.php:528
+msgid "However, an overpayment has been made."
+msgstr "但是，已经多付了款项。"
+
+#: pay-with-qubic.php:150
+msgid "If you find this plugin helpful, you can support the developer by sending Qubic Coins to the wallet address below."
+msgstr "如果你觉得这个插件有用，你可以通过向下面的钱包地址发送Qubic Coins来支持开发者。"
+
+#: pay-with-qubic.php:456
+msgid "Invalid data."
+msgstr "数据无效。"
+
+#: pay-with-qubic.php:276
+msgid "Invalid order."
+msgstr "订单无效。"
+
+#: pay-with-qubic.php:406
+msgid "Invalid transaction ID."
+msgstr "交易 ID 无效。"
+
+#: pay-with-qubic.php:536
+msgid "Less than the due amount has been paid. Order canceled."
+msgstr "已支付的金额少于应付金额。订单已取消。"
+
+#: pay-with-qubic.php:451 pay-with-qubic.php:625
+msgid "Nonce verification failed."
+msgstr "随机数验证失败。"
+
+#: pay-with-qubic.php:639
+msgid "Order ID is not valid."
+msgstr "订单编号无效。"
+
+#: pay-with-qubic.php:471
+msgid "Order Status"
+msgstr "訂單狀態"
+
+#: pay-with-qubic.php:389
+msgid "Order canceled due to payment timeout."
+msgstr "由于付款超时，订单已取消。"
+
+#: pay-with-qubic.php:466
+msgid "Order not found"
+msgstr "未找到订单"
+
+#: pay-with-qubic.php:677 pay-with-qubic.php:698
+msgid "Paid"
+msgstr "已支付"
+
+#: pay-with-qubic.php:298
+msgid "Pay"
+msgstr "付款"
+
+#: pay-with-qubic.php:114
+msgid "Pay With Qubic"
+msgstr "使用 Qubic 付款"
+
+#: pay-with-qubic.php:206
+msgid "Pay using Qubic Coin."
+msgstr "使用 Qubic Coin 付款。"
+
+#: pay-with-qubic.php:2
+msgid "Pay with Qubic - Qubic Coin Payment Verification"
+msgstr "使用 Qubic 付款-Qubic Coin 付款验证"
+
+#: pay-with-qubic.php:199
+msgid "Pay with Qubic Coin"
+msgstr "使用 Qubic 硬币付款"
+
+#: pay-with-qubic.php:216
+msgid "Payment Timeout"
+msgstr "付款超时"
+
+#: pay-with-qubic.php:489
+msgid "Payment could not be verified. Please try again."
+msgstr "无法验证付款。请再试一次。"
+
+#: pay-with-qubic.php:669
+msgid "Payment successful. However, an overpayment has been made. Please contact support."
+msgstr "付款成功。但是，已经多付了款项。请联系支持部门。"
+
+#: pay-with-qubic.php:526
+msgid "Payment successful. Your order is processing."
+msgstr "付款成功。您的订单正在处理中。"
+
+#: pay-with-qubic.php:356
+msgid "Payment time expired. Canceling the order..."
+msgstr "付款时间已过期。正在取消订单..."
+
+#: pay-with-qubic.php:530 pay-with-qubic.php:538
+#, php-format
+msgid "Please contact support with your order number (#%1$s) and transaction ID for a refund."
+msgstr "如需退款，请联系客服并提供您的订单号 (#%1$s) 和交易 ID。"
+
+#: pay-with-qubic.php:309
+msgid "QUBIC Wallet Address"
+msgstr "QUBIC 钱包地址"
+
+#: pay-with-qubic.php:209
+msgid "Qubic Coin Wallet Address"
+msgstr "Qubic 硬币钱包地址"
+
+#: pay-with-qubic.php:673
+msgid "Qubic Payment Details"
+msgstr "Qubic 付款详情"
+
+#: pay-with-qubic.php:611
+msgid "Qus Amount Due"
+msgstr "Qus 到期金额"
+
+#: pay-with-qubic.php:299
+msgid "Remaining time"
+msgstr "剩余时间"
+
+#: pay-with-qubic.php:266
+msgid "Required Qus amount for payment"
+msgstr "所需的 Qus 付款金额"
+
+#: pay-with-qubic.php:158
+msgid "Scan the QR code to send Qubic Coins directly to the developer."
+msgstr "扫描二维码，将Qubic币直接发送给开发者。"
+
+#: pay-with-qubic.php:100
+msgid "Settings"
+msgstr "设置"
+
+#: pay-with-qubic.php:139
+msgid "Settings for the Pay with Qubic payment gateway."
+msgstr "使用 Qubic 付款网关的设置。"
+
+#: pay-with-qubic.php:218
+msgid "Specify in seconds. For example, 600 for 10 minutes"
+msgstr "以秒为单位指定。例如，600 持续 10 分钟"
+
+#: pay-with-qubic.php:149
+msgid "Support the Developer"
+msgstr "支持开发者"
+
+#: pay-with-qubic.php:211
+msgid "The Qubic Coin address to receive payments"
+msgstr "用于接收付款的 Qubic Coin 地址"
+
+#: pay-with-qubic.php:205
+msgid "The description displayed during checkout"
+msgstr "结账时显示的描述"
+
+#: pay-with-qubic.php:511
+msgid "The destination wallet address does not match"
+msgstr "目标钱包地址不匹配"
+
+#: pay-with-qubic.php:636
+msgid "The order could not be found and could not be cancelled."
+msgstr "找不到订单，也无法取消。"
+
+#: pay-with-qubic.php:633 pay-with-qubic.php:634
+msgid "The order was canceled because the payment period has expired."
+msgstr "由于付款期已过期，订单被取消。"
+
+#: pay-with-qubic.php:198
+msgid "The title displayed during checkout"
+msgstr "结账时显示的标题"
+
+#: pay-with-qubic.php:497
+msgid "The transaction time cannot be before the order time."
+msgstr "交易时间不能早于下单时间。"
+
+#: pay-with-qubic.php:196
+msgid "Title"
+msgstr "标题"
+
+#: pay-with-qubic.php:296 pay-with-qubic.php:612 pay-with-qubic.php:678
+#: pay-with-qubic.php:700
+msgid "Transaction ID"
+msgstr "交易编号"
+
+#: pay-with-qubic.php:483
+msgid "Transaction ID was entered incorrectly."
+msgstr "交易编号输入不正确。"
+
+#: pay-with-qubic.php:479
+msgid "Unable to connect to the server, please try again in a moment."
+msgstr "无法连接到服务器，请稍后重试。"
+
+#: pay-with-qubic.php:229 pay-with-qubic.php:268
+msgid "Unable to fetch Qubic price information."
+msgstr "无法获取 Qubic 的价格信息。"
+
+#: pay-with-qubic.php:2
+msgid "Verifies payments made using Qubic Coin and approves or cancels the order accordingly."
+msgstr "验证使用Qubic Coin支付的款项，并相应地批准或取消订单。"
+
+#: pay-with-qubic.php:503
+msgid "Wallet address not recognised."
+msgstr "钱包地址无法识别。"
+
+#: pay-with-qubic.php:366
+msgid "day"
+msgstr "天"
+
+#: pay-with-qubic.php:366
+msgid "days"
+msgstr "天数"
+
+#: pay-with-qubic.php:369
+msgid "hour"
+msgstr "小时"
+
+#: pay-with-qubic.php:369
+msgid "hours"
+msgstr "小时"
+
+#: pay-with-qubic.php:372
+msgid "min"
+msgstr "分钟"
+
+#: pay-with-qubic.php:372
+msgid "mins"
+msgstr "分钟"
+
+#: pay-with-qubic.php:2
+msgid "ozeron7"
+msgstr "ozeron7"
+
+#: pay-with-qubic.php:374
+msgid "sec"
+msgstr "秒"
+
+#: pay-with-qubic.php:374
+msgid "secs"
+msgstr "秒"
