@@ -3,6 +3,7 @@ Pay with Qubic lets WooCommerce stores accept Qubic Coin payments, verify transa
 
 # Description
 **Pay with Qubic** is a WooCommerce payment verification plugin that checks payments made using Qubic Coin via the blockchain. This plugin verifies payments via the blockchain by checking transaction ID information and automatically updates order statuses, ensuring a seamless payment experience for your customers.
+
 **Qubic Network** is a next-generation blockchain ecosystem known for its high-speed transactions and zero fees, making it ideal for modern digital commerce. Designed with scalability in mind, Qubic ensures a smooth user experience even during peak network activity. For detailed information: qubic.org
 
 # Features
